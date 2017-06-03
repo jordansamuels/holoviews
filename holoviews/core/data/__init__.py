@@ -13,6 +13,7 @@ from .interface import Interface
 from .array import ArrayInterface
 from .dictionary import DictInterface
 from .grid import GridInterface
+from .multipath import MultiInterface         # noqa (API import)
 from .image import ImageInterface             # noqa (API import)
 from .ndelement import NdElementInterface
 
